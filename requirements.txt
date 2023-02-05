@@ -1,0 +1,9 @@
+pipenv
+subprocess
+wmi
+openai
+pyttsx3
+SpeechRecognition
+PyQt6
+webbrowser
+streamlit
